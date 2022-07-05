@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a835b89-6419-451f-beb2-f601116daa6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ll/exam/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ll/exam/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/ll/exam/exam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/ll/exam/exam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,13 +41,13 @@
     "WebServerToolWindowFactoryState": "false",
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.exam.빼기">
+  <component name="RunManager" selected="JUnit.exam.곱하기">
     <configuration name="exam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Tdd" />
       <extension name="coverage">
@@ -113,9 +113,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.exam.곱하기" />
         <item itemvalue="JUnit.exam.빼기" />
         <item itemvalue="JUnit.exam.더하기" />
-        <item itemvalue="JUnit.exam.곱하기" />
         <item itemvalue="JUnit.exam" />
       </list>
     </recent_temporary>
@@ -132,7 +132,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656988096258</updated>
       <workItem from="1656988098225" duration="1744000" />
-      <workItem from="1656993977287" duration="3708000" />
+      <workItem from="1656993977287" duration="7198000" />
     </task>
     <servers />
   </component>
