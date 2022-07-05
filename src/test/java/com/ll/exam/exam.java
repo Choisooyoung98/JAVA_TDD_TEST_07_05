@@ -1,4 +1,9 @@
 package com.ll.exam;
 
+import org.junit.jupiter.api.Test;
 public class exam {
+    @Test
+    public void 더하기() {
+
+    }
 }
